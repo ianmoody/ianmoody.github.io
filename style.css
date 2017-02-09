@@ -1,1 +1,5 @@
+html { font-size:13px; }
+body { padding:1em; }
+h1,h2,h3,h4,h5,h6 { margin:0; }
+p { margin:1em 0; }
 .nomore { color:#888; text-decoration:line-through; }
